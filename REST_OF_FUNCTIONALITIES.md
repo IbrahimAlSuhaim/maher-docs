@@ -41,7 +41,6 @@ Fahad's view
 
 <img src="./restOfFunctionalities/gifs/oga_view.gif" alt="Send to Fahad to be judge" width="250">
 
-\
 The manager can also:
   - Remove the judge
   - add himself to the judges list
@@ -86,7 +85,7 @@ Mohammed (The team leader) wants to invite Abdullah to his team (Team1)
 
   <img src="./restOfFunctionalities/images/team_page_after.jpg" alt="Team Page After Abdullah has accepted" width="250">
 
-\
+
 Now Team1 has reached the minimum number of the team and officially has been participated to Maher Hackathon  2020
 
 
@@ -97,7 +96,7 @@ Now we will move to Fahad's screen (The reviewer or the judge). Once the review 
 
   - <img src="./restOfFunctionalities/gifs/review_start.gif" alt="review starts" width="250">
 
-\
+
 After starting, The reviewer can click on the evaluate button and he will be directed to a screen with a list of teams that have participated in Maher Hackathon. Then,
 
 - He can view the profile of the team
@@ -113,7 +112,7 @@ After starting, The reviewer can click on the evaluate button and he will be dir
 
   - <img src="./restOfFunctionalities/gifs/review_finish.gif" alt="review finish" width="250">
 
-\
+
 This is all the functionalities that we intend to cover during the presentation but we couldn't.
 
 Okay, where is the select winner part?
