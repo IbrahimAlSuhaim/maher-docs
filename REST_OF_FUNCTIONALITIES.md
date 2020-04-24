@@ -3,7 +3,7 @@
 
 This page will show the rest of the functionalities that we couldn't cover in the presentation.
 
-##### This list along with the actor who can do it
+##### The list with actors
 
   - Create Hackathon (manager)
   - Manage Judges in the hackathon (manager)
@@ -14,14 +14,14 @@ This page will show the rest of the functionalities that we couldn't cover in th
   - Invite to team (team Leader)
   - Evaluate team (reviewer)
 
-##### List of users used in this example and their types
+##### List of users used in this example and their type
 - Ibrahim AlSuhaim (hackathon manager)
 - Fahad Alokail (reviewer)
 - Mohammed Alaqil (Team leader)
 - Abdullah Aljumhour (Team member)
 - Yaqoob Almaamary (Team member)
 
-## Manager and Judge view
+# Manager and Judge view
 
 - The manager can create a hackathon from plus sign button in the home tab.
 
@@ -45,14 +45,14 @@ The manager can also:
   - Remove the judge
   - add himself to the judges list
 
-#### Publish the hackathon
+### Publish the hackathon
 After The manager send to all the judges he want and they accept (Note: judges will not be allowed to accept the invitation once hackathon started)
 
 - The manager clicks publish
 
   <img src="./restOfFunctionalities/gifs/publish_hackathon.gif" alt="publish hackathon" width="250">
 
-## Participant View
+# Participant View
 
 
 After publishing the hackathon now the users can see the hackathon card in the search tab.
@@ -90,7 +90,7 @@ Now Team1 has reached the minimum number of the team and officially has been par
 
 
 
-## Hackathon in the Review Period
+# Hackathon in the Review Period
 
 Now we will move to Fahad's screen (The reviewer or the judge). Once the review period for Maher Hackathon has started, the screen in the home tab will look like this.
 
