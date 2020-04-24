@@ -103,7 +103,7 @@ After starting, The reviewer can click on the evaluate button and he will be dir
 
   <img src="./restOfFunctionalities/gifs/view_team_profile.gif" alt="view team profile" width="250">
 
-- Or clicks review. and complete the form that consists of the criteria the has initialized by the manager. Then, submit.
+- Or clicks review. and complete the form that consists of the criteria that has been defined by the manager. Then, submit.
 
   <img src="./restOfFunctionalities/gifs/submit_review.gif" alt="submit review team form" width="250">
 
@@ -113,7 +113,7 @@ After starting, The reviewer can click on the evaluate button and he will be dir
   - <img src="./restOfFunctionalities/gifs/review_finish.gif" alt="review finish" width="250">
 
 
-This is all the functionalities that we intend to cover during the presentation but we couldn't.
+This is all the functionalities that we intended to cover during the presentation but we couldn't.
 
 Okay, where is the select winner part?
 Actually, we were unable to put this feature into the app because of the time. But, it will be the first feature that we will add in the future insha allah.
